@@ -4,6 +4,7 @@
 // IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: BCAD0323-F18A-4788-9035-5756517B9371
 // IDECodeSnippetVersion: 0
+// IDECodeSnippetCompletionPrefix: mit
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Generic
 Copyright (c) 2014 Arnaud Coomans
