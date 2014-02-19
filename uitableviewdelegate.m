@@ -5,6 +5,7 @@
 // IDECodeSnippetIdentifier: 8ABC912C-BC69-43D5-94E4-83E585E671A1
 // IDECodeSnippetVersion: 0
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetCompletionPrefix: tableviewdelegate
 // IDECodeSnippetUserSnippet: 1
 #pragma mark - UITableViewDelegate
 
