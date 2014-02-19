@@ -3,7 +3,7 @@
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: AE69284C-35F2-4E84-9B8F-F522DEC8A8CA
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetCompletionPrefix: dispatch_after
 // IDECodeSnippetUserSnippet: 1
