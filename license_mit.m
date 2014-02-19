@@ -1,11 +1,11 @@
 // License MIT
 // 
 //
-// IDECodeSnippetCompletionScopes: [ClassInterfaceMethods]
+// IDECodeSnippetCompletionScopes: [TopLevel]
 // IDECodeSnippetIdentifier: BCAD0323-F18A-4788-9035-5756517B9371
 // IDECodeSnippetVersion: 0
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Generic
 Copyright (c) 2014 Arnaud Coomans
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
