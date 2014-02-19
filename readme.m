@@ -3,7 +3,7 @@
 //
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: B6BE56AE-2CED-4B26-AF49-F40CE4A6D3D2
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Generic
 // IDECodeSnippetUserSnippet: 1
 # <#Project name#>
