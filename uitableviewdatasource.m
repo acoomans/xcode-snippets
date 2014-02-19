@@ -3,7 +3,7 @@
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: DFE5E081-043B-4C5E-83EA-93DB6433BFCF
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetCompletionPrefix: tableviewdatasource
 // IDECodeSnippetUserSnippet: 1
