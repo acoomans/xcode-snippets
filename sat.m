@@ -1,5 +1,5 @@
 // sat
-// SenTests assert True
+// ST true assertion
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 41AAFA05-6CEB-40DB-BE10-4DDEC61ADEA6
