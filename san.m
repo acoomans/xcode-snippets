@@ -1,5 +1,5 @@
 // san
-// SenTest assert Nil
+// ST nil assertion
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 3B7A8444-B197-4EC0-818E-C7675E659A3C
