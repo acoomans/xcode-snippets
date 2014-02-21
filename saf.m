@@ -1,5 +1,5 @@
 // saf
-// SenTests assert False
+// ST false assertion
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 429A378E-A425-4E10-836A-A0C2FE2D2936
