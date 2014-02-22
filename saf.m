@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetCompletionPrefix: saf
 // IDECodeSnippetUserSnippet: 1
-    STAssertFalse(<#expr#>, <#description, ...#>);
+STAssertFalse(<#expr#>, <#description, ...#>);
