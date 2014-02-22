@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetCompletionPrefix: san
 // IDECodeSnippetUserSnippet: 1
-    STAssertNil(<#a1#>, <#description, ...#>);
+STAssertNil(<#a1#>, <#description, ...#>);
