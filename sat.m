@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetCompletionPrefix: sat
 // IDECodeSnippetUserSnippet: 1
-    STAssertTrue(<#expr#>, <#description, ...#>);
+STAssertTrue(<#expr#>, <#description, ...#>);
