@@ -2,10 +2,10 @@
 // Initialization method
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: 3FF72E6A-3950-4D15-8DC2-306D0F5E111F
 // IDECodeSnippetVersion: 2
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetIdentifier: 3FF72E6A-3950-4D15-8DC2-306D0F5E111F
 // IDECodeSnippetCompletionPrefix: init
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 - (id)init {
     self = [super init];

@@ -2,10 +2,10 @@
 // Table view delegate
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetIdentifier: 8ABC912C-BC69-43D5-94E4-83E585E671A1
 // IDECodeSnippetVersion: 2
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetIdentifier: 8ABC912C-BC69-43D5-94E4-83E585E671A1
 // IDECodeSnippetCompletionPrefix: tableviewdelegate
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 #pragma mark - UITableViewDelegate
 

@@ -2,9 +2,9 @@
 // ST true assertion
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 41AAFA05-6CEB-40DB-BE10-4DDEC61ADEA6
 // IDECodeSnippetVersion: 2
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetIdentifier: 41AAFA05-6CEB-40DB-BE10-4DDEC61ADEA6
 // IDECodeSnippetCompletionPrefix: sat
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 STAssertTrue(<#expr#>, <#description, ...#>);

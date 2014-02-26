@@ -2,10 +2,10 @@
 // Try catch exceptions
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
-// IDECodeSnippetIdentifier: 5A630370-4518-42DE-9AEB-DA6B97A3D678
 // IDECodeSnippetVersion: 2
-// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetIdentifier: 5A630370-4518-42DE-9AEB-DA6B97A3D678
 // IDECodeSnippetCompletionPrefix: @try
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 @try {
     <#statements#>
