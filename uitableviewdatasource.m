@@ -1,12 +1,12 @@
 // UITableViewDataSource
 // Table view data source methods
 //
-// IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetVersion: 2
-// IDECodeSnippetIdentifier: DFE5E081-043B-4C5E-83EA-93DB6433BFCF
 // IDECodeSnippetCompletionPrefix: tableviewdatasource
+// IDECodeSnippetCompletionScopes: [ClassImplementation]
+// IDECodeSnippetIdentifier: DFE5E081-043B-4C5E-83EA-93DB6433BFCF
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 #pragma mark - UITableViewDataSource
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView {

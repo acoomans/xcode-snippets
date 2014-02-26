@@ -1,12 +1,12 @@
 // UITableViewDelegate
 // Table view delegate
 //
-// IDECodeSnippetCompletionScopes: [ClassImplementation]
-// IDECodeSnippetVersion: 2
-// IDECodeSnippetIdentifier: 8ABC912C-BC69-43D5-94E4-83E585E671A1
 // IDECodeSnippetCompletionPrefix: tableviewdelegate
+// IDECodeSnippetCompletionScopes: [ClassImplementation]
+// IDECodeSnippetIdentifier: 8ABC912C-BC69-43D5-94E4-83E585E671A1
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
+// IDECodeSnippetVersion: 2
 #pragma mark - UITableViewDelegate
 
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
